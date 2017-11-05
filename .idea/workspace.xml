@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="68aed9f9-0003-429a-8cc4-59990caad1f2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/helpers/core_aayam.html" afterPath="$PROJECT_DIR$/helpers/core_aayam.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,7 +55,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fun_events_aayam.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="fun_events_aayam.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/helpers/fun_events_aayam.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
@@ -74,11 +75,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="core_aayam.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="core_aayam.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/helpers/core_aayam.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="448" column="89" lean-forward="false" selection-start-line="448" selection-start-column="89" selection-end-line="448" selection-end-column="89" />
+            <state relative-caret-position="881">
+              <caret line="550" column="78" lean-forward="true" selection-start-line="550" selection-start-column="78" selection-end-line="550" selection-end-column="78" />
               <folding />
             </state>
           </provider>
@@ -124,12 +125,12 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/helpers/Egames_aayam.html" />
-        <option value="$PROJECT_DIR$/helpers/core_aayam.html" />
         <option value="$PROJECT_DIR$/helpers/fine_arts_aayam.html" />
         <option value="$PROJECT_DIR$/helpers/Hospitality_aayam2k17.html" />
         <option value="$PROJECT_DIR$/helpers/marketing_aayam.html" />
         <option value="$PROJECT_DIR$/helpers/technical_aayam2k17.html" />
         <option value="$PROJECT_DIR$/helpers/fun_events_aayam.html" />
+        <option value="$PROJECT_DIR$/helpers/core_aayam.html" />
       </list>
     </option>
   </component>
@@ -417,17 +418,25 @@
       <option name="project" value="LOCAL" />
       <updated>1509873091770</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="minor fixes">
+      <created>1509873115334</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1509873115334</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -512,14 +521,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/helpers/core_aayam.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="448" column="89" lean-forward="false" selection-start-line="448" selection-start-column="89" selection-end-line="448" selection-end-column="89" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/helpers/fine_arts_aayam.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -556,6 +557,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="448" column="89" lean-forward="false" selection-start-line="448" selection-start-column="89" selection-end-line="448" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helpers/core_aayam.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="881">
+          <caret line="550" column="78" lean-forward="true" selection-start-line="550" selection-start-column="78" selection-end-line="550" selection-end-column="78" />
           <folding />
         </state>
       </provider>
