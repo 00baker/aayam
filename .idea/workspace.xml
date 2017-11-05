@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68aed9f9-0003-429a-8cc4-59990caad1f2" name="Default" comment="">
+    <list default="true" id="68aed9f9-0003-429a-8cc4-59990caad1f2" name="Default" comment="core updated">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/helpers/core_aayam.html" afterPath="$PROJECT_DIR$/helpers/core_aayam.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,37 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1489">
-              <caret line="109" column="46" lean-forward="false" selection-start-line="109" selection-start-column="46" selection-end-line="109" selection-end-column="46" />
-              <folding>
-                <element signature="e#6588#6595#1" expanded="true" />
-                <marker date="1509872492707" expanded="true" signature="18989:19187" ph="..." />
-                <marker date="1509872492707" expanded="true" signature="18989:19200" ph="..." />
-                <marker date="1509872492707" expanded="true" signature="18989:19211" ph="..." />
-                <marker date="1509872492707" expanded="true" signature="19057:19175" ph="..." />
-                <marker date="1509872492707" expanded="true" signature="19389:19567" ph="..." />
-                <marker date="1509872492707" expanded="true" signature="19415:19560" ph="..." />
-                <marker date="1509872492707" expanded="true" signature="19440:19548" ph="..." />
-                <marker date="1509872492707" expanded="true" signature="19633:20209" ph="..." />
-                <marker date="1509872492707" expanded="true" signature="19659:20201" ph="..." />
-                <marker date="1509872492707" expanded="true" signature="19688:19797" ph="..." />
-                <marker date="1509872492707" expanded="true" signature="19827:20159" ph="..." />
-                <marker date="1509872492707" expanded="true" signature="19858:20147" ph="..." />
-                <marker date="1509872492707" expanded="true" signature="20421:20633" ph="..." />
-                <marker date="1509872492707" expanded="true" signature="20461:20621" ph="{...}" />
-                <marker date="1509872492707" expanded="true" signature="20501:20614" ph="{...}" />
-                <marker date="1509872492707" expanded="true" signature="20737:21040" ph="..." />
-                <marker date="1509872492707" expanded="true" signature="20770:21028" ph="{...}" />
-                <marker date="1509872492707" expanded="true" signature="20775:20968" ph="/*...*/" />
-                <marker date="1509872492707" expanded="true" signature="21167:21352" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="technical_aayam2k17.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/helpers/technical_aayam2k17.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -65,43 +34,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Egames_aayam.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/helpers/Egames_aayam.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="448" column="89" lean-forward="true" selection-start-line="448" selection-start-column="12" selection-end-line="448" selection-end-column="89" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="core_aayam.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="core_aayam.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/helpers/core_aayam.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="881">
-              <caret line="550" column="78" lean-forward="true" selection-start-line="550" selection-start-column="78" selection-end-line="550" selection-end-column="78" />
+            <state relative-caret-position="102">
+              <caret line="6" column="88" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="88" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fine_arts_aayam.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/helpers/fine_arts_aayam.html">
+      <file leaf-file-name="ish.JPG" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ish.JPG">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Aayam2.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aayam2.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="448" column="89" lean-forward="false" selection-start-line="448" selection-start-column="89" selection-end-line="448" selection-end-column="89" />
-              <folding />
+            <state relative-caret-position="153">
+              <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+              <folding>
+                <element signature="e#6366#6373#1" expanded="true" />
+                <marker date="1509876121455" expanded="true" signature="18767:18965" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Hospitality_aayam2k17.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/helpers/Hospitality_aayam2k17.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="444" column="89" lean-forward="false" selection-start-line="444" selection-start-column="89" selection-end-line="444" selection-end-column="89" />
-              <folding />
-            </state>
+      <file leaf-file-name="abhishek.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hospitality _ Rendezvous'17_files/abhishek.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="advait.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hospitality _ Rendezvous'17_files/advait.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Aayam poster3.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aayam poster3.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -123,7 +110,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/helpers/Egames_aayam.html" />
         <option value="$PROJECT_DIR$/helpers/fine_arts_aayam.html" />
         <option value="$PROJECT_DIR$/helpers/Hospitality_aayam2k17.html" />
@@ -131,6 +117,7 @@
         <option value="$PROJECT_DIR$/helpers/technical_aayam2k17.html" />
         <option value="$PROJECT_DIR$/helpers/fun_events_aayam.html" />
         <option value="$PROJECT_DIR$/helpers/core_aayam.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -425,7 +412,49 @@
       <option name="project" value="LOCAL" />
       <updated>1509873115334</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="core updated">
+      <created>1509873525380</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1509873525380</updated>
+    </task>
+    <task id="LOCAL-00008" summary="core updated">
+      <created>1509874042052</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1509874042052</updated>
+    </task>
+    <task id="LOCAL-00009" summary="core updated">
+      <created>1509874185580</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1509874185580</updated>
+    </task>
+    <task id="LOCAL-00010" summary="core updated">
+      <created>1509874273651</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1509874273651</updated>
+    </task>
+    <task id="LOCAL-00011" summary="minor fixes">
+      <created>1509874766340</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1509874766340</updated>
+    </task>
+    <task id="LOCAL-00012" summary="core updated">
+      <created>1509875568766</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1509875568766</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -456,48 +485,30 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="images fixed" />
     <MESSAGE value="minor fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="minor fixes" />
+    <MESSAGE value="core updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="core updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1489">
-          <caret line="109" column="46" lean-forward="false" selection-start-line="109" selection-start-column="46" selection-end-line="109" selection-end-column="46" />
-          <folding>
-            <element signature="e#6588#6595#1" expanded="true" />
-            <marker date="1509872492707" expanded="true" signature="18989:19187" ph="..." />
-            <marker date="1509872492707" expanded="true" signature="18989:19200" ph="..." />
-            <marker date="1509872492707" expanded="true" signature="18989:19211" ph="..." />
-            <marker date="1509872492707" expanded="true" signature="19057:19175" ph="..." />
-            <marker date="1509872492707" expanded="true" signature="19389:19567" ph="..." />
-            <marker date="1509872492707" expanded="true" signature="19415:19560" ph="..." />
-            <marker date="1509872492707" expanded="true" signature="19440:19548" ph="..." />
-            <marker date="1509872492707" expanded="true" signature="19633:20209" ph="..." />
-            <marker date="1509872492707" expanded="true" signature="19659:20201" ph="..." />
-            <marker date="1509872492707" expanded="true" signature="19688:19797" ph="..." />
-            <marker date="1509872492707" expanded="true" signature="19827:20159" ph="..." />
-            <marker date="1509872492707" expanded="true" signature="19858:20147" ph="..." />
-            <marker date="1509872492707" expanded="true" signature="20421:20633" ph="..." />
-            <marker date="1509872492707" expanded="true" signature="20461:20621" ph="{...}" />
-            <marker date="1509872492707" expanded="true" signature="20501:20614" ph="{...}" />
-            <marker date="1509872492707" expanded="true" signature="20737:21040" ph="..." />
-            <marker date="1509872492707" expanded="true" signature="20770:21028" ph="{...}" />
-            <marker date="1509872492707" expanded="true" signature="20775:20968" ph="/*...*/" />
-            <marker date="1509872492707" expanded="true" signature="21167:21352" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/Rajat.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -561,11 +572,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ish.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aayam poster3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aayam2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hospitality _ Rendezvous'17_files/abhishek.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hospitality _ Rendezvous'17_files/advait.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/helpers/core_aayam.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="881">
-          <caret line="550" column="78" lean-forward="true" selection-start-line="550" selection-start-column="78" selection-end-line="550" selection-end-column="78" />
+        <state relative-caret-position="102">
+          <caret line="6" column="88" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="88" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding>
+            <element signature="e#6366#6373#1" expanded="true" />
+            <marker date="1509876121455" expanded="true" signature="18767:18965" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
