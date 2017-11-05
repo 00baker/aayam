@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68aed9f9-0003-429a-8cc4-59990caad1f2" name="Default" comment="images fixed">
+    <list default="true" id="68aed9f9-0003-429a-8cc4-59990caad1f2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/helpers/Egames_aayam.html" afterPath="$PROJECT_DIR$/helpers/Egames_aayam.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/helpers/Hospitality_aayam2k17.html" afterPath="$PROJECT_DIR$/helpers/Hospitality_aayam2k17.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/helpers/core_aayam.html" afterPath="$PROJECT_DIR$/helpers/core_aayam.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/helpers/fine_arts_aayam.html" afterPath="$PROJECT_DIR$/helpers/fine_arts_aayam.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/helpers/fun_events_aayam.html" afterPath="$PROJECT_DIR$/helpers/fun_events_aayam.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/helpers/marketing_aayam.html" afterPath="$PROJECT_DIR$/helpers/marketing_aayam.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/helpers/technical_aayam2k17.html" afterPath="$PROJECT_DIR$/helpers/technical_aayam2k17.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -410,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1509872711402</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="minor fixes">
+      <created>1509873085295</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1509873085295</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -446,7 +446,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="images fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="images fixed" />
+    <MESSAGE value="minor fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor fixes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
