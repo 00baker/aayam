@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68aed9f9-0003-429a-8cc4-59990caad1f2" name="Default" comment="minor fixes">
+    <list default="true" id="68aed9f9-0003-429a-8cc4-59990caad1f2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/helpers/core_aayam.html" afterPath="$PROJECT_DIR$/helpers/core_aayam.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -461,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1509876252809</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="core updated">
+      <created>1509879331247</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1509879331247</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -507,9 +513,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="images fixed" />
-    <MESSAGE value="core updated" />
     <MESSAGE value="minor fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="minor fixes" />
+    <MESSAGE value="core updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="core updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
