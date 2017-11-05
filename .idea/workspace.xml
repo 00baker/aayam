@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68aed9f9-0003-429a-8cc4-59990caad1f2" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Hospitality_aayam2k17.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core_aayam.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/technical_aayam2k17.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    <list default="true" id="68aed9f9-0003-429a-8cc4-59990caad1f2" name="Default" comment="images fixed">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/helpers/Egames_aayam.html" afterPath="$PROJECT_DIR$/helpers/Egames_aayam.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/helpers/Hospitality_aayam2k17.html" afterPath="$PROJECT_DIR$/helpers/Hospitality_aayam2k17.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/helpers/core_aayam.html" afterPath="$PROJECT_DIR$/helpers/core_aayam.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/helpers/fine_arts_aayam.html" afterPath="$PROJECT_DIR$/helpers/fine_arts_aayam.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/helpers/fun_events_aayam.html" afterPath="$PROJECT_DIR$/helpers/fun_events_aayam.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/helpers/marketing_aayam.html" afterPath="$PROJECT_DIR$/helpers/marketing_aayam.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/helpers/technical_aayam2k17.html" afterPath="$PROJECT_DIR$/helpers/technical_aayam2k17.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,11 +20,102 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1615">
-              <caret line="230" column="33" lean-forward="false" selection-start-line="230" selection-start-column="33" selection-end-line="230" selection-end-column="33" />
+            <state relative-caret-position="1489">
+              <caret line="109" column="46" lean-forward="false" selection-start-line="109" selection-start-column="46" selection-end-line="109" selection-end-column="46" />
+              <folding>
+                <element signature="e#6588#6595#1" expanded="true" />
+                <marker date="1509872492707" expanded="true" signature="18989:19187" ph="..." />
+                <marker date="1509872492707" expanded="true" signature="18989:19200" ph="..." />
+                <marker date="1509872492707" expanded="true" signature="18989:19211" ph="..." />
+                <marker date="1509872492707" expanded="true" signature="19057:19175" ph="..." />
+                <marker date="1509872492707" expanded="true" signature="19389:19567" ph="..." />
+                <marker date="1509872492707" expanded="true" signature="19415:19560" ph="..." />
+                <marker date="1509872492707" expanded="true" signature="19440:19548" ph="..." />
+                <marker date="1509872492707" expanded="true" signature="19633:20209" ph="..." />
+                <marker date="1509872492707" expanded="true" signature="19659:20201" ph="..." />
+                <marker date="1509872492707" expanded="true" signature="19688:19797" ph="..." />
+                <marker date="1509872492707" expanded="true" signature="19827:20159" ph="..." />
+                <marker date="1509872492707" expanded="true" signature="19858:20147" ph="..." />
+                <marker date="1509872492707" expanded="true" signature="20421:20633" ph="..." />
+                <marker date="1509872492707" expanded="true" signature="20461:20621" ph="{...}" />
+                <marker date="1509872492707" expanded="true" signature="20501:20614" ph="{...}" />
+                <marker date="1509872492707" expanded="true" signature="20737:21040" ph="..." />
+                <marker date="1509872492707" expanded="true" signature="20770:21028" ph="{...}" />
+                <marker date="1509872492707" expanded="true" signature="20775:20968" ph="/*...*/" />
+                <marker date="1509872492707" expanded="true" signature="21167:21352" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="technical_aayam2k17.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/helpers/technical_aayam2k17.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="448" column="89" lean-forward="false" selection-start-line="448" selection-start-column="89" selection-end-line="448" selection-end-column="89" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fun_events_aayam.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/helpers/fun_events_aayam.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="448" column="89" lean-forward="false" selection-start-line="448" selection-start-column="89" selection-end-line="448" selection-end-column="89" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Egames_aayam.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/helpers/Egames_aayam.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="448" column="89" lean-forward="true" selection-start-line="448" selection-start-column="12" selection-end-line="448" selection-end-column="89" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="core_aayam.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/helpers/core_aayam.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="448" column="89" lean-forward="false" selection-start-line="448" selection-start-column="89" selection-end-line="448" selection-end-column="89" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fine_arts_aayam.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/helpers/fine_arts_aayam.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="448" column="89" lean-forward="false" selection-start-line="448" selection-start-column="89" selection-end-line="448" selection-end-column="89" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Hospitality_aayam2k17.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/helpers/Hospitality_aayam2k17.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="444" column="89" lean-forward="false" selection-start-line="444" selection-start-column="89" selection-end-line="444" selection-end-column="89" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="marketing_aayam.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/helpers/marketing_aayam.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="448" column="89" lean-forward="false" selection-start-line="448" selection-start-column="89" selection-end-line="448" selection-end-column="89" />
               <folding />
             </state>
           </provider>
@@ -35,6 +130,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/helpers/Egames_aayam.html" />
+        <option value="$PROJECT_DIR$/helpers/core_aayam.html" />
+        <option value="$PROJECT_DIR$/helpers/fine_arts_aayam.html" />
+        <option value="$PROJECT_DIR$/helpers/Hospitality_aayam2k17.html" />
+        <option value="$PROJECT_DIR$/helpers/marketing_aayam.html" />
+        <option value="$PROJECT_DIR$/helpers/technical_aayam2k17.html" />
+        <option value="$PROJECT_DIR$/helpers/fun_events_aayam.html" />
       </list>
     </option>
   </component>
@@ -75,6 +177,11 @@
               <item name="aayam2" type="b2602c69:ProjectViewProjectNode" />
               <item name="aayam2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="aayam2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aayam2" type="462c0819:PsiDirectoryNode" />
+              <item name="helpers" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -84,11 +191,180 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\bak3d\Desktop\aayam2\helpers" />
     </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/helpers/Egames_aayam.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/helpers/Hospitality_aayam2k17.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/helpers/core_aayam.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/helpers/fine_arts_aayam.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/helpers/fun_events_aayam.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/helpers/marketing_aayam.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/index.html</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/fine1.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/fine2.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/fine3.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/fine4.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/fine5.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/flex1.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/flex2.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/poster1.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/poster2.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/poster3.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/poster4.jpg</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/12.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/a3.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/back12.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/dell.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/download.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/g10.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/g111.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/g1111.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/g12.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/g2.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/g21.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/g22.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/g23.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/g24.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/g25.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/g3.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/g4.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/g6.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/g7.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/g8.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/g9.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/gallery1.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/gallery2.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/gallery3.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/gallery4.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/gallery5.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/gallery7.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/gallery8.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/gallery9.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/garry.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/hp.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/maruti.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/s1.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/s2.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/s3.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/s4.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/s5.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/video/cover1.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/video/cover4.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/video/srix.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/video/srix.mp4</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -113,20 +389,43 @@
       <option name="presentableId" value="Default" />
       <updated>1509692531798</updated>
     </task>
+    <task id="LOCAL-00001" summary="images fixed">
+      <created>1509819173787</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1509819173787</updated>
+    </task>
+    <task id="LOCAL-00002" summary="images fixed">
+      <created>1509819297009</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1509819297009</updated>
+    </task>
+    <task id="LOCAL-00003" summary="images fixed">
+      <created>1509872711402</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1509872711402</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -145,6 +444,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="images fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="images fixed" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -152,8 +455,100 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1615">
-          <caret line="230" column="33" lean-forward="false" selection-start-line="230" selection-start-column="33" selection-end-line="230" selection-end-column="33" />
+        <state relative-caret-position="1489">
+          <caret line="109" column="46" lean-forward="false" selection-start-line="109" selection-start-column="46" selection-end-line="109" selection-end-column="46" />
+          <folding>
+            <element signature="e#6588#6595#1" expanded="true" />
+            <marker date="1509872492707" expanded="true" signature="18989:19187" ph="..." />
+            <marker date="1509872492707" expanded="true" signature="18989:19200" ph="..." />
+            <marker date="1509872492707" expanded="true" signature="18989:19211" ph="..." />
+            <marker date="1509872492707" expanded="true" signature="19057:19175" ph="..." />
+            <marker date="1509872492707" expanded="true" signature="19389:19567" ph="..." />
+            <marker date="1509872492707" expanded="true" signature="19415:19560" ph="..." />
+            <marker date="1509872492707" expanded="true" signature="19440:19548" ph="..." />
+            <marker date="1509872492707" expanded="true" signature="19633:20209" ph="..." />
+            <marker date="1509872492707" expanded="true" signature="19659:20201" ph="..." />
+            <marker date="1509872492707" expanded="true" signature="19688:19797" ph="..." />
+            <marker date="1509872492707" expanded="true" signature="19827:20159" ph="..." />
+            <marker date="1509872492707" expanded="true" signature="19858:20147" ph="..." />
+            <marker date="1509872492707" expanded="true" signature="20421:20633" ph="..." />
+            <marker date="1509872492707" expanded="true" signature="20461:20621" ph="{...}" />
+            <marker date="1509872492707" expanded="true" signature="20501:20614" ph="{...}" />
+            <marker date="1509872492707" expanded="true" signature="20737:21040" ph="..." />
+            <marker date="1509872492707" expanded="true" signature="20770:21028" ph="{...}" />
+            <marker date="1509872492707" expanded="true" signature="20775:20968" ph="/*...*/" />
+            <marker date="1509872492707" expanded="true" signature="21167:21352" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Rajat.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/sowmya.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Romi.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helpers/Egames_aayam.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="448" column="89" lean-forward="true" selection-start-line="448" selection-start-column="12" selection-end-line="448" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helpers/core_aayam.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="448" column="89" lean-forward="false" selection-start-line="448" selection-start-column="89" selection-end-line="448" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helpers/fine_arts_aayam.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="448" column="89" lean-forward="false" selection-start-line="448" selection-start-column="89" selection-end-line="448" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helpers/Hospitality_aayam2k17.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="444" column="89" lean-forward="false" selection-start-line="444" selection-start-column="89" selection-end-line="444" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helpers/marketing_aayam.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="448" column="89" lean-forward="false" selection-start-line="448" selection-start-column="89" selection-end-line="448" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helpers/technical_aayam2k17.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="448" column="89" lean-forward="false" selection-start-line="448" selection-start-column="89" selection-end-line="448" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helpers/fun_events_aayam.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="448" column="89" lean-forward="false" selection-start-line="448" selection-start-column="89" selection-end-line="448" selection-end-column="89" />
           <folding />
         </state>
       </provider>
